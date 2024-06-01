@@ -1,17 +1,16 @@
-
-#Customer Churn Rate Prediction
+# Customer churn prediction
 Customer churn is a tendency of customers to cancel their subscriptions to a service they have been using and, hence, stop being a client of that service. Customer churn rate is the percentage of churned customers within a predefined time interval. It's the opposite of the customer growth rate that tracks new clients.
 
 Customer churn rate is a very important indicator of customer satisfaction and the overall business wellness of the company. Apart from natural churn which always takes place in any business, or seasonable churn typical of some services, there are other factors that can mean something in the company has gone wrong and should be fixed. These factors are:
 
-* lack or low quality of customer support<br>,
-*  negative customer experiences<br>,
-* switching to a competitor with better conditions or pricing strategy<br>,
-* customers’ priorities changed<br>,
-* long-time customers don’t feel satisfied<br>,
-* the service didn't meet customers’ expectations<br>,
-* finance issues<br>,
-* fraud protection on customers' payments<br>.
+* lack or low quality of customer support,<br>
+*  negative customer experiences,<br>
+* switching to a competitor with better conditions or pricing strategy,<br>
+* customers’ priorities changed,<br>
+* long-time customers don’t feel satisfied,<br>
+* the service didn't meet customers’ expectations,<br>
+* finance issues,<br>
+* fraud protection on customers' payments.<br>
 
 High customer churn rate represents a serious problem for any company for the following reasons:
 
